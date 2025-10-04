@@ -1,1 +1,1 @@
-# DSA-JS-Sheryians-coding-school-
+# DSA-JS-Sheryians-coding-school
