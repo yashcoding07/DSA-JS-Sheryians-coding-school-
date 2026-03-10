@@ -51,3 +51,11 @@ console.log("PostOrder traversal: ");
 obj.postOrder(root);
 console.log("InOrder traversal: ");
 obj.inOrder(root);
+
+
+/* 
+144. Binary Tree Preorder Traversal https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/1943557408/
+94. Binary Tree Inorder Traversal https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1943558687/     
+145. Binary Tree Postorder Traversal https://leetcode.com/problems/binary-tree-postorder-traversal/description/ 
+104. Maximum Depth of Binary Tree https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/1943544110/
+*/
